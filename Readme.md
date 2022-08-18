@@ -10,7 +10,7 @@ Markup : * CPLEX installation on abc01 is causing issues with our program, we ha
 
 
 ~~~
- Markup : * Bullet list
+ * running "compile.sh" compiles the program
               * Nested bullet
                   * Sub-nested bullet etc
           * Bullet list item 2
